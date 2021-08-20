@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(238, 245, 180);
+}
+h1,h3 {
+    color: rgb(138, 50, 0);
+}
+
+
+hr {
+    background-color: white;
+    border-style: none;
+    border-color: gray;
+    border-width: 5px;
+    height: 2px;
+
+}
+  
